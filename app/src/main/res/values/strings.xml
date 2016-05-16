@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GitHub Example</string>
+    <string name="log_hint">Login</string>
+    <string name="pass_hint">Password</string>
+    <string name="login">Login</string>
+    <string name="wrong_log_or_pass">Wrong login or password</string>
+    <string name="network_error">Network error. Check your internet</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="ok">OK</string>
+    <string name="failed_to_fetch_repositories">Failed to fetch repositories. Showing cached repos</string>
+    <string name="retry">Retry</string>
+</resources>
